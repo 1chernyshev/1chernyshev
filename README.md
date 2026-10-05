@@ -12,7 +12,7 @@
 | [vector-product](https://github.com/1chernyshev/vector-product) | Хакатон MAX: кастдев, спецификация MVP, модель профиля с тестами, пилот — 97% учеников дошли до первого задания |
 | [junior-crm-case](https://github.com/1chernyshev/junior-crm-case) | Собственная CRM сети футбольных школ: процессы, модель данных, автоматизация на Apps Script, внедрение на 5 филиалах — маржа 18% → 25% |
 | [junior-rebranding-case](https://github.com/1chernyshev/junior-rebranding-case) | Ребрендинг после выхода из франшизы: требования, брендбук на 25 страниц, структура сайта от пути родителя к заявке |
-| [analyst-case-studies](https://github.com/1chernyshev/analyst-case-studies) | Выявление требований, ревью требований (28 находок), бизнес-кейс с TCO-моделью |
+| [analyst-case-studies](https://github.com/1chernyshev/analyst-case-studies) | Выявление и ревью требований, аудит чужого отчета, факторный анализ метрики, бизнес-кейсы с TCO и Monte-Carlo |
 | [rfm-pharmacy-analysis](https://github.com/1chernyshev/rfm-pharmacy-analysis) | RFM-сегментация на PostgreSQL и дашборд Metabase; рекомендации с бюджетом и эффектом |
 | [lms-database-design](https://github.com/1chernyshev/lms-database-design) | Модель данных по ТЗ: 16 таблиц, ER-диаграмма, DDL, трассировка требований |
 | [ab-test-gamification](https://github.com/1chernyshev/ab-test-gamification) | A/B-тест: SRM, MDE, поправка Холма, сегменты, продуктовое решение |
