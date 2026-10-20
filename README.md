@@ -13,6 +13,7 @@
 | [junior-crm-case](https://github.com/1chernyshev/junior-crm-case) | Собственная CRM сети футбольных школ: процессы, модель данных, автоматизация на Apps Script, внедрение на 7 филиалах — маржа 18% → 25% |
 | [junior-rebranding-case](https://github.com/1chernyshev/junior-rebranding-case) | Ребрендинг после выхода из франшизы: требования, брендбук на 25 страниц, структура сайта от пути родителя к заявке |
 | [analyst-case-studies](https://github.com/1chernyshev/analyst-case-studies) | Выявление и ревью требований, аудит чужого отчета, факторный анализ метрики, бизнес-кейсы с TCO и Monte-Carlo |
+| [bpmn-process-models](https://github.com/1chernyshev/bpmn-process-models) | BPMN 2.0: 4 процесса с паспортом, ролями, таймерами SLA и связанными процессами; после ревью оценка Storm 7,8–8,4 → 9,0–9,4 |
 | [python-data-cases](https://github.com/1chernyshev/python-data-cases) | Учебные задачи на Python (МИФИ): автоматизация отчета, Google Sheets API (166 должников), retention / lifetime / churn / MAU — с тестами |
 | [rfm-pharmacy-analysis](https://github.com/1chernyshev/rfm-pharmacy-analysis) | RFM-сегментация на PostgreSQL и дашборд Metabase; рекомендации с бюджетом и эффектом |
 | [lms-database-design](https://github.com/1chernyshev/lms-database-design) | Модель данных по ТЗ: 16 таблиц, ER-диаграмма, DDL, трассировка требований |
