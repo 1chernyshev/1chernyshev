@@ -19,7 +19,7 @@
 | [lms-database-design](https://github.com/1chernyshev/lms-database-design) | Модель данных по ТЗ: 16 таблиц, ER-диаграмма, DDL, трассировка требований |
 | [ab-test-gamification](https://github.com/1chernyshev/ab-test-gamification) | A/B-тест: SRM, MDE, поправка Холма, сегменты, продуктовое решение |
 | [tender-radar](https://github.com/1chernyshev/tender-radar) | Гипотеза для B2B-финтеха на данных ЕИС: 94% госконтрактов без аванса (в работе) |
-| [telegram-mini-apps](https://github.com/1chernyshev/telegram-mini-apps) | 4 Telegram Mini App от идеи до продакшена |
+| [telegram-mini-apps](https://github.com/1chernyshev/telegram-mini-apps) | Great Cow: заказ уличной еды в Telegram — требования, BPMN, модель данных, API |
 | [personal-planner](https://github.com/1chernyshev/personal-planner) | Atlas — планер в одном HTML-файле, PWA, синхронизация на Supabase · [демо](https://1chernyshev.github.io/personal-planner/) |
 
 ## Инструменты
