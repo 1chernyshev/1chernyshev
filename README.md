@@ -15,6 +15,7 @@
 | [analyst-case-studies](https://github.com/1chernyshev/analyst-case-studies) | Выявление и ревью требований, аудит чужого отчета, факторный анализ метрики, бизнес-кейсы с TCO и Monte-Carlo |
 | [bpmn-process-models](https://github.com/1chernyshev/bpmn-process-models) | BPMN 2.0: 4 процесса с паспортом, ролями, таймерами SLA и связанными процессами; после ревью оценка Storm 7,8–8,4 → 9,0–9,4 |
 | [python-data-cases](https://github.com/1chernyshev/python-data-cases) | Учебные задачи на Python (МИФИ): автоматизация отчета, Google Sheets API (166 должников), retention / lifetime / churn / MAU — с тестами |
+| [python-etl-grader](https://github.com/1chernyshev/python-etl-grader) | Итоговый проект курса Python: ETL статистики учебной платформы — загрузка из API с повторами, валидация, PostgreSQL, Google Sheets, 75 тестов; по ревью исправлены связки полей и часовые пояса |
 | [rfm-pharmacy-analysis](https://github.com/1chernyshev/rfm-pharmacy-analysis) | RFM-сегментация на PostgreSQL и дашборд Metabase; рекомендации с бюджетом и эффектом |
 | [lms-database-design](https://github.com/1chernyshev/lms-database-design) | Модель данных по ТЗ: 16 таблиц, ER-диаграмма, DDL, трассировка требований |
 | [ab-test-gamification](https://github.com/1chernyshev/ab-test-gamification) | A/B-тест: SRM, MDE, поправка Холма, сегменты, продуктовое решение |
