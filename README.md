@@ -16,6 +16,7 @@
 | [bpmn-process-models](https://github.com/1chernyshev/bpmn-process-models) | BPMN 2.0: 4 процесса с паспортом, ролями, таймерами SLA и связанными процессами; после ревью оценка Storm 7,8–8,4 → 9,0–9,4 |
 | [python-data-cases](https://github.com/1chernyshev/python-data-cases) | Учебные задачи на Python (МИФИ): автоматизация отчета, Google Sheets API (166 должников), retention / lifetime / churn / MAU — с тестами |
 | [python-etl-grader](https://github.com/1chernyshev/python-etl-grader) | Итоговый проект курса Python: ETL статистики учебной платформы — загрузка из API с повторами, валидация, PostgreSQL, Google Sheets, 75 тестов; по ревью исправлены связки полей и часовые пояса |
+| [changellenge-cup-avito](https://github.com/1chernyshev/changellenge-cup-avito) | Кейс-чемпионат Changellenge Cup (Авито): концепция, финансовая модель на 3 года с NPV, пороги окупаемости, вывод «сначала пилот» |
 | [rfm-pharmacy-analysis](https://github.com/1chernyshev/rfm-pharmacy-analysis) | RFM-сегментация на PostgreSQL и дашборд Metabase; рекомендации с бюджетом и эффектом |
 | [lms-database-design](https://github.com/1chernyshev/lms-database-design) | Модель данных по ТЗ: 16 таблиц, ER-диаграмма, DDL, трассировка требований |
 | [ab-test-gamification](https://github.com/1chernyshev/ab-test-gamification) | A/B-тест: SRM, MDE, поправка Холма, сегменты, продуктовое решение |
